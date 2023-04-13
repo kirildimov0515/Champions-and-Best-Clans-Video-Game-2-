@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-size: 25px;
+    background-color: #7573D9;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: green;
+    background-color: grey;
+}
+.a_1{
+    margin-right: 25px;
+}
+img{
+    width: 850px;
+    height: 250px;
+    margin-top: 50px;
+}
+img:hover{
+    border: 20px double #DE0052;
+}
